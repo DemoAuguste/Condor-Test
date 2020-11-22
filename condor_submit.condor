@@ -15,6 +15,7 @@ getenv          = True
 #environment    = HOME=$ENV(HOME)
 
 ### JOB ########################### 
+executable      = /usr/bin/python
 arguments       = test.py
 input           =
 output          = test.out
